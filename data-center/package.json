@@ -24,7 +24,7 @@
     "redux-promise": "^0.6.0",
     "redux-thunk": "^2.3.0",
     "typescript": "^3.4.4",
-    "tl-ui": "git+ssh://git@github.com:tenglai/tl-design.git#semver:^2.0.1"
+    "tl-ui": "git+ssh://git@github.com:tenglai/tl-design.git#master"
   },
   "scripts": {
     "start": "react-scripts-ts start",
